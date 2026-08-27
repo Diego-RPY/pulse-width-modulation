@@ -9,7 +9,7 @@ Designed a custom built PWM along with a state machine with logic gates. The PWM
 ## 🛠️ System Specifications
 
 ### Modules/Hardware
-Note: This project is meant to show the custom design of a PWM and a state machine, this means that the motor and power supply listed below are not mandatory in order to demonstrate the primary function of the project.
+Note: This project is meant to show the custom design of a PWM and a state machine, this means that the motor and power supply listed below are not needed in order to demonstrate the primary function of the project.
 * **FPGA Board:** 10M50DAF484C7G
 * **Motor Drivers:** L298N
 * **Power:** Jesverty SPS-3010 
