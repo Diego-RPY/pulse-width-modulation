@@ -20,6 +20,10 @@
 | s4 | 10011 | 61.3% | 60 |
 | s5 | 11000 | 77.4% | 80 |
 | s6 | 11101 | 93.5% | 95 |
+
+## BCD to 7 Segment Display
+* The signal used for the BCD-7 Segment Display module is composed of 4 bits representing a number from 0 to 9. However as observed by the table values certain digits are repeated for the display number in some states, allowing for certain bits to be tied to a specific value since regardless of the state they will remain the same.
+
 ### Tens Digit Display
 
 | State | 4-bit Binary | Displayed Digit |
