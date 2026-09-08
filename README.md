@@ -1,5 +1,5 @@
 # Project Name: FPGA PWM motor controller
-Designed a custom built PWM along with a state machine with logic gates. The PWM operated at a frequency of x Hz and was built using VERILOG language in Intel Quartus.
+Designed a custom built PWM along with a state machine with logic gates. The PWM operated at a frequency of 500 Hz and was built using VERILOG language in Intel Quartus.
 
 ## Master Digital Circuit
 <img width="1500" height="607" alt="image" src="https://github.com/user-attachments/assets/f7875efc-91ea-47b4-9cc7-d22e9a777e84" />
